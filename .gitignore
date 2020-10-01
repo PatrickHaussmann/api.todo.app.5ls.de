@@ -1,4 +1,19 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+# git folder
+.git
+
+# NPM
+node_modules
+npm-debug.log
+
+# Testing
+.nyc_output
+
+# Mac
+.DS_Store
+
+# data folder for docker
+data
+
+# Sublime text files
+jsonbox.sublime-project
+jsonbox.sublime-workspace
